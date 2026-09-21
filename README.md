@@ -145,4 +145,46 @@ The dashboard includes analysis of:
 * Shipping preferences
 * Customer purchasing patterns
 
-### Dashboard Prev
+### Dashboard Preview
+
+---
+
+## 💡 Key Insights
+
+* Young Adults generated the highest proportion of total sales, followed by Middle-Aged Adults.
+* More than 2,500 repeat/loyal buyers with more than five prior purchases were identified as non-subscribers.
+* Customers using Express Shipping had a higher average spend than Standard Shipping customers.
+
+---
+
+## 📚 Skills Demonstrated
+
+* Python
+* Pandas
+* Data Cleaning
+* Exploratory Data Analysis
+* ETL
+* MySQL
+* SQL
+* SQLAlchemy
+* PyMySQL
+* Power BI
+* DAX
+* Data Visualization
+* Business Analysis
+
+---
+
+## 📁 Project Files
+
+* [🐍 Python Analysis Notebook](python/Customer_Shopping_Behavior_Analysis.ipynb)
+* [🗄️ SQL Analysis](sql/customer_behavior_sql_queries.sql)
+* [📊 Power BI Dashboard](powerbi/Customer_Behavior_Dashboard.pbix)
+* [📄 Raw Dataset](data/customer_shopping_behavior.csv)
+* [🔄 Project Workflow](documentation/project_workflow.md)
+* [📋 Business Problem](documentation/Business%20Problem%20.pdf)
+* [📄 Customer Shopping Behavior Analysis](documentation/Customer%20Shopping%20Behavior%20Analysis.pdf)
+
+---
+
+## 🖼️ Dashboard Preview
