@@ -95,4 +95,26 @@ Power BI is used to create an interactive dashboard based on the analytical resu
 
 ## 6. Business Insights
 
-The final stage converts the analytical results into business insights that help understand customer purchasing b
+The final stage converts the analytical results into business insights that help understand customer purchasing behavior and identify important trends.
+
+---
+
+## 🔁 Complete Workflow
+
+```text
+Raw Customer Shopping CSV
+          ↓
+Python / Pandas
+          ↓
+Data Cleaning & EDA
+          ↓
+MySQL Database
+          ↓
+SQL Business Analysis
+          ↓
+Power BI
+          ↓
+Interactive Dashboard
+          ↓
+Business Insights
+```
