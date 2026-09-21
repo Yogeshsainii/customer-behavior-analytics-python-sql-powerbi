@@ -179,7 +179,7 @@ The dashboard includes analysis of:
 
 * [🐍 Python Analysis Notebook](python/Customer_Shopping_Behavior_Analysis.ipynb)
 * [🗄️ SQL Analysis](sql/customer_behavior_sql_queries.sql)
-* [📊 Power BI Dashboard](powerbi/Customer_Behavior_Dashboard.pbix)
+* [📊 Power BI Dashboard](powerbi/'Customer_Behavior_Project.pbix)
 * [📄 Raw Dataset](data/customer_shopping_behavior.csv)
 * [🔄 Project Workflow](documentation/project_workflow.md)
 * [📋 Business Problem](documentation/Business%20Problem%20.pdf)
